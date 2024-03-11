@@ -1,4 +1,4 @@
-# Electron Builder Action
+# Electron Builder Action for Quasar
 
 **GitHub Action for building and releasing Electron apps**
 
